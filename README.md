@@ -22,7 +22,7 @@ The goal is not to claim that every AI system on the internet can be blocked for
 
 Official store links:
 
-- Chrome Web Store: Coming soon
+- Chrome Web Store: Pending Google review
 - Microsoft Edge Add-ons: Coming soon
 - Firefox Add-ons: Coming soon
 
@@ -33,6 +33,8 @@ AI Blocker does not collect, sell, or transmit personal data.
 The extension stores user preferences locally in the browser using `chrome.storage.local`. These preferences include blocked/unblocked domain settings and the search AI hiding setting.
 
 The extension does not send browsing history, search queries, page content, or personal information to any external server.
+
+[Privacy Policy](https://github.com/ah9bf3/AI-Blocker/blob/main/privacy-policy.html)
 
 ## Disclaimer
 
