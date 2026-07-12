@@ -62,6 +62,6 @@ Support link: https://buymeacoffee.com/hanafi.a
 
 ## Copyright
 
-Copyright © 2026 Your Amine Hanafi / [bio.link/aminehanafi](https://bio.link/aminehanafi).
+Copyright © 2026 Amine Hanafi / [bio.link/aminehanafi](https://bio.link/aminehanafi).
 
 All rights reserved.
