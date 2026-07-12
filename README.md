@@ -1,4 +1,4 @@
-# AI-Blocker
+# AI Blocker
 
 <p align="center">
   <img width="300" height="300" alt="blocked" src="https://github.com/user-attachments/assets/3df9b063-e0e3-4553-bb4c-a0fdad0f3448" /div>
@@ -10,7 +10,7 @@ AI Blocker is a browser extension built to help users reduce exposure to AI tool
 
 It can block known AI websites, AI chatbot platforms, AI API endpoints, embedded AI chat widgets, and AI-generated answer panels inside search engines. The extension gives users control through a simple popup interface with search, category filters, block/unblock buttons, and optional search-page AI cleanup.
 
-The goal is not to claim that every AI system on the internet can be blocked forever, but to provide a practical, transparent, and user-controlled blocklist that can be updated over time.AI blocker 
+The goal is not to claim that every AI system on the internet can be blocked forever, but to provide a practical, transparent, and user-controlled blocklist that can be updated over time.
 
 ## Features
 
@@ -27,8 +27,8 @@ The goal is not to claim that every AI system on the internet can be blocked for
 
 Official store links:
 
-- Chrome Web Store: Pending Google review
-- Microsoft Edge Add-ons: Coming soon
+- Chrome Web Store: [AIBlokcer](https://chromewebstore.google.com/detail/bjkonocfbmabondjogeohklbogobafae?utm_source=item-share-cb)
+- Microsoft Edge Add-ons: Under Microsoft review
 - Firefox Add-ons: Coming soon
 
 ## Privacy
